@@ -6,9 +6,10 @@ The frontend, designed with HTML, CSS, and JavaScript, ensures an engaging and r
 
 There are some screenshots of these Project:-
 
-![Registration 1](https://github.com/adarsh03108/My_Blog/assets/155520119/a0a4d1b2-fa96-416e-9ca4-c9e747e6e18d)
-![List_Registration 2](https://github.com/adarsh03108/My_Blog/assets/155520119/9a911459-f1f7-41a3-b98f-df460408df46)
-![Update 3](https://github.com/adarsh03108/My_Blog/assets/155520119/1d3957a2-1ded-4506-8773-1925d7b52a25)
+![Registration 1](https://github.com/adarsh03108/Blog_App/assets/155520119/f3f32f39-ca1d-4fa2-9089-1f7890c35e01)
+![List_Registration 2](https://github.com/adarsh03108/Blog_App/assets/155520119/0cc6400d-843a-42d8-9c76-19a33ddcdf24)
+![Update 3](https://github.com/adarsh03108/Blog_App/assets/155520119/b5118a5a-d91b-4853-8e88-3802b89a70a6)
+
 
 
 # Blog_App
